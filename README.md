@@ -13,7 +13,8 @@
 *MENTOR*: NEELA SANTOSH
 
 
-##Introduction
+##
+Introduction
 it is a structured pipeline for preparing raw observational measurements for machine learning tasks. The process follows the Extract–Transform–Load (ETL) framework and utilizes established Python libraries to ensure both reproducibility and clarity. The Iris dataset serves as a representative example, illustrating essential preprocessing stages applicable to a wide range of practical scenarios.
 
 1. Objectives and Scope
@@ -73,9 +74,12 @@ Retail Demand Forecasting: Aligning sales and inventory data across diverse outl
 These use cases underscore the importance of consistent preprocessing in enabling robust, data‑driven decision making.
 
 6. Conclusion
-This preprocessing pipeline transforms raw data into a normalized, consumable format through a clear ETL sequence. By automating extraction, validation, cleaning, scaling, and export, this workflow ensures data integrity and supports scalable analytics initiatives. The resulting CSV file serves as a definitive data artifact, enabling downstream modeling and deployment with confidence in data quality. Continuous integration of such pipelines within production environments promotes repeatable outcomes and reduces manual intervention.##
+This preprocessing pipeline transforms raw data into a normalized, consumable format through a clear ETL sequence. By automating extraction, validation, cleaning, scaling, and export, this workflow ensures data integrity and supports scalable analytics initiatives. The resulting CSV file serves as a definitive data artifact, enabling downstream modeling and deployment with confidence in data quality. Continuous integration of such pipelines within production environments promotes repeatable outcomes and reduces manual intervention.
+##
 
 
 
-#output#
+##
+output
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a7aac415-8caf-4719-b4a6-314017187fe5" />
+##
