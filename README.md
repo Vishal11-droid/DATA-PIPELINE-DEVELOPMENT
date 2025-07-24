@@ -74,3 +74,8 @@ These use cases underscore the importance of consistent preprocessing in enablin
 
 6. Conclusion
 This preprocessing pipeline transforms raw data into a normalized, consumable format through a clear ETL sequence. By automating extraction, validation, cleaning, scaling, and export, this workflow ensures data integrity and supports scalable analytics initiatives. The resulting CSV file serves as a definitive data artifact, enabling downstream modeling and deployment with confidence in data quality. Continuous integration of such pipelines within production environments promotes repeatable outcomes and reduces manual intervention.##
+
+
+
+#output#
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a7aac415-8caf-4719-b4a6-314017187fe5" />
